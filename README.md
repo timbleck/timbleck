@@ -1,1 +1,1 @@
-Hi, I’m Tim Bleck, a passionate and visionary manager & engineer. I build successful teams and high-quality applications. My heart beats for the agile principles, software craftsmanship, and team autonomy to build the best products while delivering high-quality code. You can conntact me on https://www.linkedin.com/in/timbleck/.
+Hi, I’m Tim Bleck. I'm passionate about building successful teams and high-quality software solutions. My heart beats for the agile principles, software craftsmanship, and empowered teams. You can conntact me on https://www.linkedin.com/in/timbleck/.
